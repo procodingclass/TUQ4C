@@ -1,2 +1,1 @@
-# C24SA
-box without push and pop
+# Tablet-SPCK-PRO-C24-Student-Activity
